@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meme of the Wild.Plugins", "Meme of the Wild.Plugins.csproj", "{F182D03C-A10A-B6BA-1D24-2BE5E4E195BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meme of the Wild", "Meme of the Wild.csproj", "{68065A93-280E-3791-9CAD-BB3D803FF25A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meme of the Wild.Editor.Plugins", "Meme of the Wild.Editor.Plugins.csproj", "{0B26BA7C-9225-76D8-5E60-9235BAF78DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F182D03C-A10A-B6BA-1D24-2BE5E4E195BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F182D03C-A10A-B6BA-1D24-2BE5E4E195BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F182D03C-A10A-B6BA-1D24-2BE5E4E195BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F182D03C-A10A-B6BA-1D24-2BE5E4E195BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68065A93-280E-3791-9CAD-BB3D803FF25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68065A93-280E-3791-9CAD-BB3D803FF25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68065A93-280E-3791-9CAD-BB3D803FF25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68065A93-280E-3791-9CAD-BB3D803FF25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B26BA7C-9225-76D8-5E60-9235BAF78DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B26BA7C-9225-76D8-5E60-9235BAF78DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B26BA7C-9225-76D8-5E60-9235BAF78DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B26BA7C-9225-76D8-5E60-9235BAF78DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
